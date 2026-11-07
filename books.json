@@ -1,4 +1,8 @@
 {
-  "grundlagen": {"amazonUrl":"https://www.amazon.de/dp/B0HNLP43TF"},
-  "kurz": {"amazonUrl":null}
+  "grundlagen": {
+    "amazonUrl": "https://www.amazon.de/dp/B0HNLP43TF"
+  },
+  "kurz": {
+    "amazonUrl": "https://www.amazon.de/dp/B0HQT8QHT7"
+  }
 }
