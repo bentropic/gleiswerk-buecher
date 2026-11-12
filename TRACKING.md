@@ -6,6 +6,7 @@ Dashboard: https://bentropic.goatcounter.com/
 |---|---|
 | /gleiswerk-buecher/ | Seitenbesuche |
 | amazon-eisenbahntechnik | Klicks auf Eisenbahntechnik in 60 Sekunden |
+| amazon-leit-und-sicherungstechnik-kompakt | Klicks auf Leit- und Sicherungstechnik kompakt |
 | amazon-gleise | Klicks auf Gleise verstehen in 60 Sekunden |
 | amazon-eisenbahn-verstehen | Klicks auf Eisenbahn verstehen |
 
@@ -14,7 +15,7 @@ Die Button-Ereignisse verwenden die offizielle data-goatcounter-click-Einbindung
 TikTok-Profillink:
 https://bentropic.github.io/gleiswerk-buecher/?utm_source=tiktok&utm_medium=social&utm_campaign=profil
 
-Noch vom Kontoinhaber: E-Mail bestätigen. Statistik nach einem echten Besuch und Klick je Buch im Dashboard prüfen. Eigene Testbesuche können in der Statistik auftauchen.
+Statistik nach einem echten Besuch und Klick je Buch im Dashboard prüfen. Eigene Testbesuche können in der Statistik auftauchen.
 
 Quellen:
 https://www.goatcounter.com/help/events
